@@ -4,7 +4,7 @@ An interactive Excel workbook that explores how income, expenses, existing savin
 
 Completed by **Joseluis Botello-Esquivel** as part of Zero to Mastery's **The Excel Bootcamp**. This course project demonstrates spreadsheet modeling, Excel formulas, and dashboard presentation as part of my transition into data analytics.
 
-![Retirement calculator dashboard](screenshots/dashboard.png)
+![Retirement calculator dashboard](dashboard.png)
 
 ## What the workbook does
 
@@ -48,7 +48,7 @@ The displayed scenario uses age 29, annual income of $75,000, annual expenses of
 
 With the retirement-age setting at 61, the saved projection shows approximately **$3.47 million at the end of age 61** and a negative ending balance at age **87**. These results describe the supplied scenario under fixed assumptions; they are not guaranteed outcomes.
 
-![Annual projection detail](screenshots/detail.png)
+![Annual projection detail](detail.png)
 
 ## Skills demonstrated
 
